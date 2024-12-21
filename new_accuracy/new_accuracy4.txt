@@ -1,0 +1,18 @@
+Work, Power, and Energy
+
+Average Accuracy for Conceptual: 0.84
+Precision for Conceptual: 0.93
+Recall for Conceptual: 0.96
+F1 Score for Conceptual: 0.94
+Average Accuracy for Mathematical: 0.79
+Precision for Mathematical: 0.91
+Recall for Mathematical: 0.88
+F1 Score for Mathematical: 0.89
+Average Accuracy for Descriptive: 0.77
+Precision for Descriptive: 0.91
+Recall for Descriptive: 0.81
+F1 Score for Descriptive: 0.86
+Total Average Accuracy: 0.8
+Total Precision: 0.95
+Total Recall: 0.81
+Total F1 Score: 0.87

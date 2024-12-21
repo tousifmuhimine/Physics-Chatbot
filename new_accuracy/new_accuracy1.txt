@@ -1,0 +1,18 @@
+Physical Quantities and Measurement
+
+Average Accuracy for Conceptual: 0.87
+Precision for Conceptual: 0.93
+Recall for Conceptual: 0.84
+F1 Score for Conceptual: 0.88
+Average Accuracy for Mathematical: 0.83
+Precision for Mathematical: 0.95
+Recall for Mathematical: 0.91
+F1 Score for Mathematical: 0.93
+Average Accuracy for Descriptive: 0.91
+Precision for Descriptive: 0.98
+Recall for Descriptive: 1.0
+F1 Score for Descriptive: 0.99
+Total Average Accuracy: 0.87
+Total Precision: 0.93
+Total Recall: 0.96
+Total F1 Score: 0.94

@@ -1,0 +1,18 @@
+Modern Physics and Electronics
+
+Average Accuracy for Conceptual: 0.88
+Precision for Conceptual: 0.98
+Recall for Conceptual: 0.81
+F1 Score for Conceptual: 0.89
+Average Accuracy for Mathematical: 0.86
+Precision for Mathematical: 0.98
+Recall for Mathematical: 0.88
+F1 Score for Mathematical: 0.93
+Average Accuracy for Descriptive: 0.84
+Precision for Descriptive: 0.98
+Recall for Descriptive: 0.82
+F1 Score for Descriptive: 0.89
+Total Average Accuracy: 0.86
+Total Precision: 0.96
+Total Recall: 0.91
+Total F1 Score: 0.93

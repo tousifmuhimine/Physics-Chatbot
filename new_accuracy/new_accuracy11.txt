@@ -1,0 +1,18 @@
+Current Electricity
+
+Average Accuracy for Conceptual: 0.91
+Precision for Conceptual: 0.95
+Recall for Conceptual: 0.87
+F1 Score for Conceptual: 0.91
+Average Accuracy for Mathematical: 0.97
+Precision for Mathematical: 0.98
+Recall for Mathematical: 0.95
+F1 Score for Mathematical: 0.96
+Average Accuracy for Descriptive: 0.91
+Precision for Descriptive: 0.94
+Recall for Descriptive: 0.92
+F1 Score for Descriptive: 0.93
+Total Average Accuracy: 0.93
+Total Precision: 0.95
+Total Recall: 0.9
+Total F1 Score: 0.92
